@@ -54,6 +54,6 @@ FACT_CHECK_API_KEY = "YOUR_GOOGLE_FACT_CHECK_API_KEY"
 
 ### 5. Launch the Streamlit App
 ```bash
-streamlit run hack.py
+streamlit run streamlit_app.py
 ```
 The application will open automatically in your browser at `http://localhost:8501`.
